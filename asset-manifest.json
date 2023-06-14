@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/moodBoard/static/css/main.a0de0f5d.css",
-    "main.js": "/moodBoard/static/js/main.858a06da.js",
-    "static/media/red_background.jpg": "/moodBoard/static/media/red_background.917cfe7006221847539d.jpg",
-    "static/media/gold_background.jpg": "/moodBoard/static/media/gold_background.1f3ea5413296d75632b3.jpg",
-    "static/media/beige_background.jpg": "/moodBoard/static/media/beige_background.b7bde015dff5c8c2df65.jpg",
-    "index.html": "/moodBoard/index.html",
-    "main.a0de0f5d.css.map": "/moodBoard/static/css/main.a0de0f5d.css.map",
-    "main.858a06da.js.map": "/moodBoard/static/js/main.858a06da.js.map"
+    "main.css": "/static/css/main.1f69b4fe.css",
+    "main.js": "/static/js/main.858a06da.js",
+    "static/media/red_background.jpg": "/static/media/red_background.917cfe7006221847539d.jpg",
+    "static/media/gold_background.jpg": "/static/media/gold_background.1f3ea5413296d75632b3.jpg",
+    "static/media/beige_background.jpg": "/static/media/beige_background.b7bde015dff5c8c2df65.jpg",
+    "index.html": "/index.html",
+    "main.1f69b4fe.css.map": "/static/css/main.1f69b4fe.css.map",
+    "main.858a06da.js.map": "/static/js/main.858a06da.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0de0f5d.css",
+    "static/css/main.1f69b4fe.css",
     "static/js/main.858a06da.js"
   ]
 }
