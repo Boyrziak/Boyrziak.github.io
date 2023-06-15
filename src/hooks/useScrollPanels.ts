@@ -6,6 +6,7 @@ const scrollIndexDelay = 1000;
 export function useScrollPanels() {
     const [scrollIndex, setScrollIndex] = useState<number>(0);
     const [timestamp, setTimestamp] = useState<number>(Date.now());
+
     useEffect(() => {
         const onScroll = (event: WheelEvent) => {
             const newTimestamp = Date.now();
@@ -13,7 +14,6 @@ export function useScrollPanels() {
                 setScrollIndex(checkScrollPosition(scrollIndex, event.deltaY));
                 setTimestamp(newTimestamp);
             }
-            console.log(scrollIndex);
         }
         window.addEventListener('wheel', onScroll);
 
